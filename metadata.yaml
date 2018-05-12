@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/63
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13909#The-Indiscretion-of-the-Duchess--13-Being-a-Story-Concerning-Two-Ladies-a-Nobleman-and-a-Neck_
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
 identifiers:
